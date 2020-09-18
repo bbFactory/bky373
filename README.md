@@ -6,10 +6,14 @@
   <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&layout=compact&theme=radical" height="130">
 </p>
   
-### Favorite Languages: 
+### Languages & Tools: 
 <p>
-  <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-73dcff?style=flat-square&logo=kotlin" />
-  <img alt="java" src="https://img.shields.io/badge/-Java-f1ff73?style=flat-square&logo=java&logoColor=black" />
+  <img alt="java" src="https://img.shields.io/badge/-Java-FA4B32?style=flat-square&logo=java&logoColor=white" />
+  <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-00AEFF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/-Python-2D8CFF?style=flat-square&logo=python&logoColor=white" />
+  <br>
+  <img alt="github" src="https://img.shields.io/badge/-Github-313131?style=flat-square&logo=github&logoColor=white" />
+  <img alt="slack" src="https://img.shields.io/badge/-Slack-FF4785?style=flat-square&logo=slack&logoColor=white" />
 </p>
 <br>
 
@@ -30,4 +34,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
